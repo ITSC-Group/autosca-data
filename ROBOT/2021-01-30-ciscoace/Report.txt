@@ -1,0 +1,5 @@
+The server is Vulnerable to Class 0X00 In Pkcs#1 Padding (First 8 Bytes After 0X00 0X02) 
+The server is Vulnerable to Class 0X00 On The Last Position  (|Pms| = 0) 
+The server is Vulnerable to Class Wrong First Byte (0X00 Set To 0X17) 
+The server is Vulnerable to Class Wrong Second Byte (0X02 Set To 0X17) 
+The Server is Vulnerable to Side Channel attacks
