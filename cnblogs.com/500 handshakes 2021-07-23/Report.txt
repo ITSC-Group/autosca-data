@@ -1,0 +1,16 @@
+The server is Vulnerable to Class 0X00 On The Last Position  (|Pms| = 0) 
+The server is Vulnerable to Class 0X00 On The Next To Last Position (|Pms| = 1) 
+The server is Vulnerable to Class Correctly Formatted Pkcs#1 Message  (|Pms| = 47) 
+The server is Vulnerable to Class Correctly Formatted Pkcs#1 Pms Message  But 1 Byte Shorter 
+The server is Vulnerable to Class No 0X00 In Message 
+The server is Vulnerable to Class Wrong First Byte (0X00 Set To 0X17) 
+The server is Vulnerable to Class Wrong Second Byte (0X02 Set To 0X17) 
+The server is Vulnerable to Class 0X00 In Some Padding Byte Missing-CCS-FIN 
+The server is Vulnerable to Class 0X00 On The Last Position  (|Pms| = 0) Missing-CCS-FIN 
+The server is Vulnerable to Class 0X00 On The Next To Last Position (|Pms| = 1) Missing-CCS-FIN 
+The server is Vulnerable to Class Correctly Formatted Pkcs#1 Message  (|Pms| = 47) Missing-CCS-FIN 
+The server is Vulnerable to Class Correctly Formatted Pkcs#1 Pms Message  But 1 Byte Shorter Missing-CCS-FIN 
+The server is Vulnerable to Class No 0X00 In Message Missing-CCS-FIN 
+The server is Vulnerable to Class Wrong First Byte (0X00 Set To 0X17) Missing-CCS-FIN 
+The server is Vulnerable to Class Wrong Second Byte (0X02 Set To 0X17) Missing-CCS-FIN 
+The Server is Vulnerable to Side Channel attacks

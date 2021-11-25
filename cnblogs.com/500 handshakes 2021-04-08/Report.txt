@@ -1,0 +1,43 @@
+The server is Vulnerable to Class 0X00 On The Last Position  (|Pms| = 0) 
+Highest p-value 0.9622311296654353, Lowest p-value 0.0003820692340241738, Number of Algorithms 4 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+The server is Vulnerable to Class 0X00 On The Next To Last Position (|Pms| = 1) 
+Highest p-value 0.9043504628275008, Lowest p-value 0.00012610534138612906, Number of Algorithms 3 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+The server is Vulnerable to Class Correctly Formatted Pkcs#1 Message  (|Pms| = 47) 
+Highest p-value 0.9442813755258908, Lowest p-value 7.984379110093087e-06, Number of Algorithms 4 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+The server is Vulnerable to Class Correctly Formatted Pkcs#1 Pms Message  But 1 Byte Shorter 
+Highest p-value 0.8808738583714082, Lowest p-value 0.0003617853161792528, Number of Algorithms 4 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+The server is Vulnerable to Class No 0X00 In Message 
+Highest p-value 0.8402719326772574, Lowest p-value 6.672190645651277e-05, Number of Algorithms 3 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+The server is Vulnerable to Class Wrong First Byte (0X00 Set To 0X17) 
+Highest p-value 0.994589965595639, Lowest p-value 0.00011085287663914478, Number of Algorithms 2 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+The server is Vulnerable to Class Wrong Second Byte (0X02 Set To 0X17) 
+Highest p-value 0.9929176637656514, Lowest p-value 0.00017460123824331042, Number of Algorithms 4 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+The server is Vulnerable to Class 0X00 On The Last Position  (|Pms| = 0) 
+Highest p-value 0.9622311296654353, Lowest p-value 0.0003820692340241738, Number of Algorithms 4 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+The server is Vulnerable to Class 0X00 On The Next To Last Position (|Pms| = 1) 
+Highest p-value 0.9043504628275008, Lowest p-value 0.00012610534138612906, Number of Algorithms 3 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+The server is Vulnerable to Class Correctly Formatted Pkcs#1 Message  (|Pms| = 47) 
+Highest p-value 0.9442813755258908, Lowest p-value 7.984379110093087e-06, Number of Algorithms 4 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+The server is Vulnerable to Class Correctly Formatted Pkcs#1 Pms Message  But 1 Byte Shorter 
+Highest p-value 0.8808738583714082, Lowest p-value 0.0003617853161792528, Number of Algorithms 4 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+The server is Vulnerable to Class No 0X00 In Message 
+Highest p-value 0.8402719326772574, Lowest p-value 6.672190645651277e-05, Number of Algorithms 3 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+The server is Vulnerable to Class Wrong First Byte (0X00 Set To 0X17) 
+Highest p-value 0.994589965595639, Lowest p-value 0.00011085287663914478, Number of Algorithms 2 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+The server is Vulnerable to Class Wrong Second Byte (0X02 Set To 0X17) 
+Highest p-value 0.9929176637656514, Lowest p-value 0.00017460123824331042, Number of Algorithms 4 
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+The Server is Vulnerable to Side Channel attacks
