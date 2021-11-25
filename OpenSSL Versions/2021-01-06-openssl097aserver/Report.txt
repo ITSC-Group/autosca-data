@@ -1,0 +1,5 @@
+The server is Vulnerable to Class Multi-Class 
+The server is Vulnerable to Class Invalid Tls Version In Pms 
+The server is Vulnerable to Class Multi-Class Missing-CCS-FIN 
+The server is Vulnerable to Class Invalid Tls Version In Pms Missing-CCS-FIN 
+The Server is Vulnerable to Side Channel attacks
